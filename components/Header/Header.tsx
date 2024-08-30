@@ -10,9 +10,9 @@ export const Header = () => {
         <div>
           <Link href="/" className={styles.homeLink}>
             <Image
-              src="/for-good-first-issue.svg"
-              width={144}
-              height={32}
+              src="/ghcc.svg"
+              width={500}
+              height={40}
               alt="For Good First Issue logo"
             />
           </Link>
